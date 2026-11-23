@@ -1,0 +1,765 @@
+{
+ "duration": 41.174,
+ "lines": [
+  {
+   "id": "hook",
+   "voice": "af_heart",
+   "text": "This spacecraft is so far away, a message you send it today arrives tomorrow.",
+   "start": 0.15,
+   "end": 4.526,
+   "words": [
+    [
+     "This",
+     0.15,
+     0.43
+    ],
+    [
+     "spacecraft",
+     0.43,
+     1.047
+    ],
+    [
+     "is",
+     1.047,
+     1.215
+    ],
+    [
+     "so",
+     1.215,
+     1.383
+    ],
+    [
+     "far",
+     1.383,
+     1.607
+    ],
+    [
+     "away,",
+     1.607,
+     1.944
+    ],
+    [
+     "a",
+     2.293,
+     2.39
+    ],
+    [
+     "message",
+     2.39,
+     2.778
+    ],
+    [
+     "you",
+     2.778,
+     2.972
+    ],
+    [
+     "send",
+     2.972,
+     3.215
+    ],
+    [
+     "it",
+     3.215,
+     3.361
+    ],
+    [
+     "today",
+     3.361,
+     3.652
+    ],
+    [
+     "arrives",
+     3.652,
+     4.04
+    ],
+    [
+     "tomorrow.",
+     4.04,
+     4.526
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "date",
+   "voice": "af_heart",
+   "text": "On November eighteenth, Voyager 1 became the first human-made object to reach one light-day from Earth.",
+   "start": 4.646,
+   "end": 10.43,
+   "words": [
+    [
+     "On",
+     4.646,
+     4.813
+    ],
+    [
+     "November",
+     4.813,
+     5.313
+    ],
+    [
+     "eighteenth,",
+     5.313,
+     5.981
+    ],
+    [
+     "Voyager",
+     5.981,
+     6.426
+    ],
+    [
+     "1",
+     6.426,
+     6.537
+    ],
+    [
+     "became",
+     6.537,
+     6.926
+    ],
+    [
+     "the",
+     6.926,
+     7.149
+    ],
+    [
+     "first",
+     7.149,
+     7.482
+    ],
+    [
+     "human-made",
+     7.482,
+     8.094
+    ],
+    [
+     "object",
+     8.094,
+     8.483
+    ],
+    [
+     "to",
+     8.483,
+     8.65
+    ],
+    [
+     "reach",
+     8.65,
+     8.984
+    ],
+    [
+     "one",
+     8.984,
+     9.207
+    ],
+    [
+     "light-day",
+     9.207,
+     9.763
+    ],
+    [
+     "from",
+     9.763,
+     10.041
+    ],
+    [
+     "Earth.",
+     10.041,
+     10.43
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "miles",
+   "voice": "af_heart",
+   "text": "That's sixteen billion miles.",
+   "start": 10.48,
+   "end": 12.033,
+   "words": [
+    [
+     "That's",
+     10.48,
+     10.842
+    ],
+    [
+     "sixteen",
+     10.842,
+     11.256
+    ],
+    [
+     "billion",
+     11.256,
+     11.67
+    ],
+    [
+     "miles.",
+     11.67,
+     12.033
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "loop",
+   "voice": "af_heart",
+   "text": "And it's running out of power.",
+   "start": 12.133,
+   "end": 13.384,
+   "words": [
+    [
+     "And",
+     12.133,
+     12.294
+    ],
+    [
+     "it's",
+     12.294,
+     12.496
+    ],
+    [
+     "running",
+     12.496,
+     12.819
+    ],
+    [
+     "out",
+     12.819,
+     12.981
+    ],
+    [
+     "of",
+     12.981,
+     13.102
+    ],
+    [
+     "power.",
+     13.102,
+     13.384
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "memory",
+   "voice": "af_heart",
+   "text": "It's been flying since nineteen seventy-seven, on a computer with less memory than one photo on your phone.",
+   "start": 13.564,
+   "end": 19.334,
+   "words": [
+    [
+     "It's",
+     13.564,
+     13.807
+    ],
+    [
+     "been",
+     13.807,
+     14.05
+    ],
+    [
+     "flying",
+     14.05,
+     14.389
+    ],
+    [
+     "since",
+     14.389,
+     14.68
+    ],
+    [
+     "nineteen",
+     14.68,
+     15.117
+    ],
+    [
+     "seventy-seven,",
+     15.117,
+     15.845
+    ],
+    [
+     "on",
+     16.279,
+     16.429
+    ],
+    [
+     "a",
+     16.429,
+     16.529
+    ],
+    [
+     "computer",
+     16.529,
+     16.98
+    ],
+    [
+     "with",
+     16.98,
+     17.23
+    ],
+    [
+     "less",
+     17.23,
+     17.481
+    ],
+    [
+     "memory",
+     17.481,
+     17.831
+    ],
+    [
+     "than",
+     17.831,
+     18.082
+    ],
+    [
+     "one",
+     18.082,
+     18.282
+    ],
+    [
+     "photo",
+     18.282,
+     18.583
+    ],
+    [
+     "on",
+     18.583,
+     18.733
+    ],
+    [
+     "your",
+     18.733,
+     18.983
+    ],
+    [
+     "phone.",
+     18.983,
+     19.334
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "radio",
+   "voice": "af_heart",
+   "text": "Its radio is weaker than a fridge light bulb.",
+   "start": 19.484,
+   "end": 21.985,
+   "words": [
+    [
+     "Its",
+     19.484,
+     19.701
+    ],
+    [
+     "radio",
+     19.701,
+     20.028
+    ],
+    [
+     "is",
+     20.028,
+     20.191
+    ],
+    [
+     "weaker",
+     20.191,
+     20.571
+    ],
+    [
+     "than",
+     20.571,
+     20.843
+    ],
+    [
+     "a",
+     20.843,
+     20.952
+    ],
+    [
+     "fridge",
+     20.952,
+     21.333
+    ],
+    [
+     "light",
+     21.333,
+     21.659
+    ],
+    [
+     "bulb.",
+     21.659,
+     21.985
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "faint",
+   "voice": "af_heart",
+   "text": "By the time that signal reaches us, it's a billionth of a billionth of a watt. Giant dishes still catch it.",
+   "start": 22.065,
+   "end": 27.826,
+   "words": [
+    [
+     "By",
+     22.065,
+     22.206
+    ],
+    [
+     "the",
+     22.206,
+     22.395
+    ],
+    [
+     "time",
+     22.395,
+     22.63
+    ],
+    [
+     "that",
+     22.63,
+     22.866
+    ],
+    [
+     "signal",
+     22.866,
+     23.196
+    ],
+    [
+     "reaches",
+     23.196,
+     23.572
+    ],
+    [
+     "us,",
+     23.572,
+     23.761
+    ],
+    [
+     "it's",
+     24.022,
+     24.242
+    ],
+    [
+     "a",
+     24.242,
+     24.33
+    ],
+    [
+     "billionth",
+     24.33,
+     24.771
+    ],
+    [
+     "of",
+     24.771,
+     24.903
+    ],
+    [
+     "a",
+     24.903,
+     24.991
+    ],
+    [
+     "billionth",
+     24.991,
+     25.431
+    ],
+    [
+     "of",
+     25.431,
+     25.563
+    ],
+    [
+     "a",
+     25.563,
+     25.651
+    ],
+    [
+     "watt.",
+     25.651,
+     25.915
+    ],
+    [
+     "Giant",
+     26.348,
+     26.654
+    ],
+    [
+     "dishes",
+     26.654,
+     27.011
+    ],
+    [
+     "still",
+     27.011,
+     27.316
+    ],
+    [
+     "catch",
+     27.316,
+     27.622
+    ],
+    [
+     "it.",
+     27.622,
+     27.826
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "power",
+   "voice": "af_heart",
+   "text": "But its power drops about four watts every year. So NASA keeps switching instruments off.",
+   "start": 27.976,
+   "end": 32.73,
+   "words": [
+    [
+     "But",
+     27.976,
+     28.188
+    ],
+    [
+     "its",
+     28.188,
+     28.399
+    ],
+    [
+     "power",
+     28.399,
+     28.716
+    ],
+    [
+     "drops",
+     28.716,
+     29.033
+    ],
+    [
+     "about",
+     29.033,
+     29.349
+    ],
+    [
+     "four",
+     29.349,
+     29.614
+    ],
+    [
+     "watts",
+     29.614,
+     29.93
+    ],
+    [
+     "every",
+     29.93,
+     30.247
+    ],
+    [
+     "year.",
+     30.247,
+     30.564
+    ],
+    [
+     "So",
+     30.564,
+     30.723
+    ],
+    [
+     "NASA",
+     30.723,
+     30.987
+    ],
+    [
+     "keeps",
+     30.987,
+     31.304
+    ],
+    [
+     "switching",
+     31.304,
+     31.832
+    ],
+    [
+     "instruments",
+     31.832,
+     32.466
+    ],
+    [
+     "off.",
+     32.466,
+     32.73
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "skit",
+   "voice": "am_michael",
+   "text": "Sorry, buddy.",
+   "start": 32.78,
+   "end": 33.692,
+   "words": [
+    [
+     "Sorry,",
+     32.78,
+     33.236
+    ],
+    [
+     "buddy.",
+     33.236,
+     33.692
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "two",
+   "voice": "af_heart",
+   "text": "Only two science instruments are still on.",
+   "start": 33.792,
+   "end": 35.787,
+   "words": [
+    [
+     "Only",
+     33.792,
+     34.024
+    ],
+    [
+     "two",
+     34.024,
+     34.21
+    ],
+    [
+     "science",
+     34.21,
+     34.581
+    ],
+    [
+     "instruments",
+     34.581,
+     35.138
+    ],
+    [
+     "are",
+     35.138,
+     35.323
+    ],
+    [
+     "still",
+     35.323,
+     35.602
+    ],
+    [
+     "on.",
+     35.602,
+     35.787
+    ]
+   ],
+   "segments_matched": true
+  },
+  {
+   "id": "end",
+   "voice": "af_heart",
+   "text": "One day it'll go quiet, and keep flying anyway. So if you ever want to say goodbye, remember:",
+   "start": 36.037,
+   "end": 41.174,
+   "words": [
+    [
+     "One",
+     36.037,
+     36.256
+    ],
+    [
+     "day",
+     36.256,
+     36.475
+    ],
+    [
+     "it'll",
+     36.475,
+     36.802
+    ],
+    [
+     "go",
+     36.802,
+     36.966
+    ],
+    [
+     "quiet,",
+     36.966,
+     37.349
+    ],
+    [
+     "and",
+     37.349,
+     37.567
+    ],
+    [
+     "keep",
+     37.567,
+     37.841
+    ],
+    [
+     "flying",
+     37.841,
+     38.223
+    ],
+    [
+     "anyway.",
+     38.223,
+     38.66
+    ],
+    [
+     "So",
+     38.66,
+     38.824
+    ],
+    [
+     "if",
+     38.824,
+     38.988
+    ],
+    [
+     "you",
+     38.988,
+     39.207
+    ],
+    [
+     "ever",
+     39.207,
+     39.48
+    ],
+    [
+     "want",
+     39.48,
+     39.753
+    ],
+    [
+     "to",
+     39.753,
+     39.917
+    ],
+    [
+     "say",
+     39.917,
+     40.136
+    ],
+    [
+     "goodbye,",
+     40.136,
+     40.628
+    ],
+    [
+     "remember:",
+     40.628,
+     41.174
+    ]
+   ],
+   "segments_matched": true
+  }
+ ]
+}

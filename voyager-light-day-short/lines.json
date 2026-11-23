@@ -1,0 +1,13 @@
+[
+ {"id": "hook",   "voice": "af_heart",   "text": "This spacecraft is so far away, a message you send it today arrives tomorrow."},
+ {"id": "date",   "voice": "af_heart",   "text": "On November eighteenth, Voyager 1 became the first human-made object to reach one light-day from Earth."},
+ {"id": "miles",  "voice": "af_heart",   "text": "That's sixteen billion miles."},
+ {"id": "loop",   "voice": "af_heart",   "text": "And it's running out of power."},
+ {"id": "memory", "voice": "af_heart",   "text": "It's been flying since nineteen seventy-seven, on a computer with less memory than one photo on your phone."},
+ {"id": "radio",  "voice": "af_heart",   "text": "Its radio is weaker than a fridge light bulb."},
+ {"id": "faint",  "voice": "af_heart",   "text": "By the time that signal reaches us, it's a billionth of a billionth of a watt. Giant dishes still catch it."},
+ {"id": "power",  "voice": "af_heart",   "text": "But its power drops about four watts every year. So NASA keeps switching instruments off."},
+ {"id": "skit",   "voice": "am_michael", "text": "Sorry, buddy."},
+ {"id": "two",    "voice": "af_heart",   "text": "Only two science instruments are still on."},
+ {"id": "end",    "voice": "af_heart",   "text": "One day it'll go quiet, and keep flying anyway. So if you ever want to say goodbye, remember:"}
+]
